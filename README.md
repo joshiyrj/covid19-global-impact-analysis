@@ -198,10 +198,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
+- **Author**: Yashraj Joshi 
+- **Email**: joshiyrj@gmail.com
+- **LinkedIn**: https://linkedin.com/in/yashrajjoshi
+- **Portfolio**: https://joshiyrj.github.io/My-Portfolio
 
 ---
 
